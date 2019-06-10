@@ -1,0 +1,8 @@
+[core]
+	editor = nano
+	excludesfile = ~/.gitignore
+[user]
+	name = Olle Lauri Boström
+	email = ollebostr@gmail.com
+[credential]
+	helper = osxkeychain
